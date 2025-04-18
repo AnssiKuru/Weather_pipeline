@@ -4,7 +4,7 @@ Tämä projekti lataa Helsingin säähistorian (2013–2023) Open-Meteo API:sta,
 
 🧪 Mukana: lineaarinen regressiomalli, viivästetyt piirteet, visualisointi ja mallin tallennus.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KÄYTTÄJÄNIMI/REPO/blob/main/weather_pipeline_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnssiKuru/Weather_pipeline/blob/main/weather_pipeline_notebook.ipynb)
 
 ---
 
